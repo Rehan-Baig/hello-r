@@ -5,3 +5,5 @@ print('Following lines are printed in RStudio')
 
 name = 'Trainer'
 print(name)
+
+print(name)
